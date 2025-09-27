@@ -8,3 +8,5 @@
 ||health.ems.onet.pl^
 ||jsdelivr.net^
 ||justid.io^
+||samito-webpush.wpcdn.pl^
+||hit.gemius.pl^
