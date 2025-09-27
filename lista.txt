@@ -101,3 +101,4 @@
 ##^script:has-text(nk_tracking)
 ||ocular.pepper.pl^
 ||faye.prod-eks.pepper.com^
+||klaviyo.com^
