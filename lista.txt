@@ -299,3 +299,11 @@
 ##^script:has-text(NotificationX)
 ##^script:has-text(trustpulse)
 ##^script:has-text(TrustPulse)
+||*.ru^
+||*.su^
+||*.рф^
+||*.moscow^
+||*.kremlin^
+||*.by^
+||*.бел^
+||*.ua^
