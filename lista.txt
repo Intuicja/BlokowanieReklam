@@ -99,3 +99,5 @@
 ##^script:has-text(p24_tracking)
 ##^script:has-text(wykop_analytics)
 ##^script:has-text(nk_tracking)
+||ocular.pepper.pl^
+||faye.prod-eks.pepper.com^
