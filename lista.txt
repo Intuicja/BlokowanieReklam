@@ -3,3 +3,6 @@
 ||livechatinc.com^
 ||googleadservices.com^
 ||googletagmanager.com^
+||gemius.pl^
+||piano.io^
+||health.ems.onet.pl^
