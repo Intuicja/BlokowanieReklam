@@ -6,3 +6,5 @@
 ||gemius.pl^
 ||piano.io^
 ||health.ems.onet.pl^
+||jsdelivr.net^
+||justid.io^
